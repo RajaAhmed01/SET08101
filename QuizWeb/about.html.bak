@@ -1,0 +1,88 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>About</title>
+    <link rel="stylesheet" href="style.css">
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@4.6.1/dist/css/bootstrap.min.css"
+        integrity="sha384-zCbKRCUGaJDkqS1kPbPd7TveP5iyJE0EjAuZQTgFLD2ylzuqKfdKlfG/eSrtxUkn" crossorigin="anonymous">
+</head>
+
+<body>
+
+    <!-- <!-Nav bar-!> -->
+    <nav>
+        <div class="navcontent">
+            <a class="navbar-brand sitename text-center" href="home.html">Quiz Website</a>
+        </div>
+        <div class="menu">
+            <ul id="list">
+                <li><a href="home.html">Home</a></li>
+                <li><a href=" #" class=" active">About</a></li>
+                <li><a href=" map.html">Map</a></li>
+                <li><a href=" contact.html">Contact</a></li>
+            </ul>
+        </div>
+        <!-- <!-Nav bar-!> -->
+
+        <!-- <!-About -->
+        <div id="outerdiv">
+            <div class="container">
+                <div class="row">
+                    <div class="col-lg-6" id="innerdiv">
+                        <div>
+                            <p class="aboutpara">I have always been very interested in geography from a young age, even
+                                in
+                                my school
+                                life I chose geography as my main subject . My online quiz website will be on a well
+                                know
+                                subject,
+                                it will be about geography. Geography covers a lot of elements such as climate,
+                                atmosphere,
+                                landforms, and ocean etc. My main focus will be on geography in general. I will have
+                                simple
+                                questions about Europe countries in general, basically because people have more
+                                knowledge
+                                about the
+                                neighbours’ countries and also because people have also studied about them in their
+                                school
+                                years.
+                                This quiz will be an easy depending on the knowledge you have gained previously. As a
+                                sample
+                                question, just to have an idea of the type of questions I will be adding in the quiz for
+                                example ;
+                                What is the longest river in Europe? . I will also be adding four different answers in
+                                which
+                                one of
+                                them will be the right one. Some of the question will be hard, not quite
+                                easy to
+                                answer
+                                just to make the quiz a little bit challenging and interesting at the same time. </p>
+                        </div>
+                    </div>
+                    <div class="col-lg-6">
+                        <img src="https://img.freepik.com/free-vector/science-retro-concept-set-with-cartoon-education-objects_1284-7500.jpg?w=740&t=st=1651001274~exp=1651001874~hmac=6f2dfb09efc682a27331d991ef32c7fcfa7a6977e4cbc875ea5adf6b8a5c5992"
+                            class="w-100" style="border-radius: 1rem;box-shadow: 0 1rem 1rem grey;" alt="">
+                    </div>
+                </div>
+            </div>
+        </div>
+        </div>
+        <!-- <!-About-!> -->
+        <script src="https://cdn.jsdelivr.net/npm/jquery@3.5.1/dist/jquery.slim.min.js"
+            integrity="sha384-DfXdz2htPH0lsSSs5nCTpuj/zy4C+OGpamoFVy38MVBnE+IbbVYUew+OrCXaRkfj"
+            crossorigin="anonymous"></script>
+
+        <script src="https://cdn.jsdelivr.net/npm/bootstrap@4.6.1/dist/js/bootstrap.min.js"
+            integrity="sha384-VHvPCCyXqtD5DqJeNxl2dtTyhF78xXNXdkwX1CZeRusQfRKp+tA7hAShOK/B/fQ2"
+            crossorigin="anonymous"></script>
+        <script src="https://cdn.jsdelivr.net/npm/popper.js@1.16.1/dist/umd/popper.min.js"
+            integrity="sha384-9/reFTGAW83EW2RDu2S0VKaIzap3H66lZH81PoYlFhbGU+6BZp6G7niu735Sk7lN"
+            crossorigin="anonymous"></script>
+
+</body>
+
+</html>
